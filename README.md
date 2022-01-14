@@ -1,3 +1,4 @@
 # git_test
 First GitHub Repository
-Hello Odin.
+Hello Odin!
+I'm editing this file for practice.
